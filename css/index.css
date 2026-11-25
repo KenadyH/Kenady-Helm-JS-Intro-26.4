@@ -89,3 +89,19 @@ section {
 }
 
 
+
+/* Skills layout */
+#Skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 0;
+    list-style: none;
+}
+
+#Skills li {
+    background-color: #E5D6C5;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 12px 18px;
+}
